@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # pet_care
 
-A new Flutter project.
+A new Flutter project on Pet Care.
 
 ## Getting Started
 
